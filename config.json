@@ -1,0 +1,8 @@
+{
+  "app": "myapp",
+  "secret_key": "abc123def456",
+  "database": {
+    "password": "hunter2",
+    "host": "localhost"
+  }
+}
