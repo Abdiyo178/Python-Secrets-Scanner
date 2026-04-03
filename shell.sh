@@ -19,8 +19,7 @@ AWS_SECRET_ACCESS_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 AWS_DEFAULT_REGION="us-east-1"
 
 API_TOKEN="ghp_exampleFakeGitHubToken1234567890"
-SLACK_WEBHOOK_URL="https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
-JWT_SIGNING_SECRET="super-secret-jwt-signing-key-example"
+SLACK_WEBHOOK_URL="https://hooks.slack.com/services/FAKE/FAKE/FAKE"JWT_SIGNING_SECRET="super-secret-jwt-signing-key-example"
 PRIVATE_KEY_PATH="/home/backup_admin/.ssh/id_rsa"
 
 echo "[*] Starting backup sync..."
