@@ -1,0 +1,1 @@
+PATTERNS = ["api_key", "password", "secret", "token", "db_pass", "server_pass", "private_key"]
